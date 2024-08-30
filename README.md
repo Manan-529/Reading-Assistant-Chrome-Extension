@@ -42,10 +42,11 @@ reading-assistant-extension/
 ├── manifest.json
 ├── popup.html
 ├── popup.js
+├── background.js
 ├── styles.css
-├── icons/
-│   └── icon.png
+├── icon.png
 └── README.md
+
 
 ```
 
