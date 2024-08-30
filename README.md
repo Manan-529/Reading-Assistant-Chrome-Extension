@@ -52,8 +52,9 @@ reading-assistant-extension/
 - **`manifest.json`**: Configuration file for the Chrome extension.
 - **`popup.html`**: HTML file for the extension's popup interface.
 - **`popup.js`**: JavaScript file containing the logic for the extension.
+- **`background.js`**: JavaScript file for background processing and event handling.
 - **`styles.css`**: Stylesheet for the extension's popup.
-- **`icons/`**: Folder containing icons for the extension.
+- **`icon.png`**: Icon image used for the Chrome extension.
 
 ## Contributing
 
