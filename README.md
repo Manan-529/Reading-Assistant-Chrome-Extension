@@ -21,3 +21,19 @@ A Chrome extension designed to enhance your reading experience with features lik
 3. **Enable Developer Mode:** Toggle the switch in the top right corner to enable Developer Mode.
 
 4. **Load the Extension:** Click "Load unpacked" and select the src folder from the cloned repository.
+
+
+## Usage
+
+- Click on the Reading Assistant icon in the Chrome toolbar.
+- Use the buttons in the popup to interact with the features:
+  - **Summarize Text:** Generates a summary of the current webpage.
+  - **Estimated Reading Time:** Calculates and displays the estimated reading time for the webpage.
+  - **Highlight Text:** Highlights the selected text on the current webpage.
+  - **Read Aloud:** Reads the content of the webpage aloud using text-to-speech.
+  - **Stop Read Aloud:** Stops the ongoing text-to-speech.
+  - **Activate Reading Mode:** Removes distractions and formats the page for easier reading.
+
+## Project Structure
+
+<pre> <code> reading-assistant-extension/ │ ├── src/ │ ├── manifest.json │ ├── popup.html │ ├── popup.js │ ├── styles.css │ └── icons/ │ ├── icon16.png │ ├── icon48.png │ └── icon128.png │ └── README.md </code> </pre>
