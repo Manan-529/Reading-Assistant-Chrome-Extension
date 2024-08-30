@@ -16,8 +16,8 @@ A Chrome extension designed to enhance your reading experience with features lik
    ```bash
    git clone https://github.com/yourusername/reading-assistant-extension.git
    ```
-2. ***Navigate to Chrome Extensions:*** Open Chrome and go to chrome://extensions/.
+2. **Navigate to Chrome Extensions:** Open Chrome and go to chrome://extensions/.
 
-3. ***Enable Developer Mode:*** Toggle the switch in the top right corner to enable Developer Mode.
+3. **Enable Developer Mode:** Toggle the switch in the top right corner to enable Developer Mode.
 
-4. ***Load the Extension:*** Click "Load unpacked" and select the src folder from the cloned repository.
+4. **Load the Extension:** Click "Load unpacked" and select the src folder from the cloned repository.
