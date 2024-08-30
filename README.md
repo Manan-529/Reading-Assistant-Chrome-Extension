@@ -39,15 +39,14 @@ A Chrome extension designed to enhance your reading experience with features lik
 ```
 reading-assistant-extension/
 │
-├── src/
-│   ├── manifest.json
-│   ├── popup.html
-│   ├── popup.js
-│   ├── styles.css
-│   └── icons/s
-│       └── icon.png
-│
+├── manifest.json
+├── popup.html
+├── popup.js
+├── styles.css
+├── icons/
+│   └── icon.png
 └── README.md
+
 ```
 
 
