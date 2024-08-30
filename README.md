@@ -36,5 +36,16 @@ A Chrome extension designed to enhance your reading experience with features lik
 
 ## Project Structure
 
-reading-assistant-extension/ │ ├── src/ │ ├── manifest.json │ ├── popup.html │ ├── popup.js │ ├── styles.css │ └── icons/ │ ├── icon16.png │ ├── icon48.png │ └── icon128.png │ └── README.md
-
+reading-assistant-extension/
+│
+├── src/
+│   ├── manifest.json
+│   ├── popup.html
+│   ├── popup.js
+│   ├── styles.css
+│   └── icons/
+│       ├── icon16.png
+│       ├── icon48.png
+│       └── icon128.png
+│
+└── README.md
