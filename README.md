@@ -50,3 +50,18 @@ reading-assistant-extension/
 │
 └── README.md
 ```
+
+
+- **`manifest.json`**: Configuration file for the Chrome extension.
+- **`popup.html`**: HTML file for the extension's popup interface.
+- **`popup.js`**: JavaScript file containing the logic for the extension.
+- **`styles.css`**: Stylesheet for the extension's popup.
+- **`icons/`**: Folder containing icons for the extension.
+
+## Contributing
+
+Contributions are welcome! Please fork the repository and create a pull request with your changes. Ensure your code adheres to the project's coding standards and passes all tests.
+
+## License
+
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
