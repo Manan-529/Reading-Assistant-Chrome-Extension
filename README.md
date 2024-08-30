@@ -35,7 +35,7 @@ A Chrome extension designed to enhance your reading experience with features lik
   - **Activate Reading Mode:** Removes distractions and formats the page for easier reading.
 
 ## Project Structure
-
+```
 reading-assistant-extension/
 │
 ├── src/
@@ -49,3 +49,4 @@ reading-assistant-extension/
 │       └── icon128.png
 │
 └── README.md
+```
