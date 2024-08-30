@@ -8,6 +8,7 @@ A Chrome extension designed to enhance your reading experience with features lik
 - **Reading Time Estimation:** Estimates the time required to read a web page.
 - **Text Highlighting:** Allows users to highlight text on any web page.
 - **Text-to-Speech:** Reads the web page content aloud.
+- **Stop Text-to-Speech:** Stops the ongoing text-to-speech when needed.
 - **Reading Mode:** Removes distractions and formats the web page for easier reading.
 
 ## Installation
