@@ -46,8 +46,6 @@ reading-assistant-extension/
 ├── styles.css
 ├── icon.png
 └── README.md
-
-
 ```
 
 
